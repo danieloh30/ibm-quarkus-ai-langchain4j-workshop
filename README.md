@@ -1,4 +1,4 @@
-# ibm-quarkus-langchain4j-workshop
+IBM Enterprise build of Quarkus AI Hands-on labs
 
 A workshop to learn how to build AI-Infused applications with IBM build of Quarkus and LangChain4j.
 

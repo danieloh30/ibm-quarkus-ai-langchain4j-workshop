@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="quarkus-langchain4j-workshop-08" />
+        <module name="quarkus-langchain4j-workshop-07" />
+        <module name="quarkus-langchain4j-workshop-09" />
+        <module name="quarkus-langchain4j-workshop-04" />
+        <module name="quarkus-langchain4j-workshop-03" />
+        <module name="quarkus-langchain4j-workshop-2-01" />
+        <module name="quarkus-langchain4j-workshop-06" />
+        <module name="quarkus-langchain4j-workshop-2-02" />
+        <module name="quarkus-langchain4j-workshop-05" />
+        <module name="quarkus-langchain4j-workshop-2-03" />
+        <module name="quarkus-langchain4j-workshop-2-04-remote-a2a-agent" />
+        <module name="quarkus-langchain4j-workshop-11" />
+        <module name="quarkus-langchain4j-workshop-10" />
+        <module name="quarkus-langchain4j-workshop-02" />
+        <module name="quarkus-langchain4j-workshop-01" />
+        <module name="quarkus-langchain4j-workshop-2-04-multi-agent-system" />
+        <module name="quarkus-langchain4j-workshop-08-mcp-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="quarkus-langchain4j-workshop-01" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-02" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-03" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-04" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-05" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-06" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-07" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-08" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-08-mcp-server" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-09" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-10" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-11" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-2-01" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-2-02" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-2-03" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-2-04-multi-agent-system" options="-parameters" />
+      <module name="quarkus-langchain4j-workshop-2-04-remote-a2a-agent" options="-parameters" />
+    </option>
+  </component>
+</project>

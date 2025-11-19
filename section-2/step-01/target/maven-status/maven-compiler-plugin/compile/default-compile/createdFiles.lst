@@ -1,0 +1,7 @@
+com/carmanagement/service/CarManagementService.class
+com/carmanagement/agentic/agents/CarWashAgent.class
+com/carmanagement/resource/CarResource.class
+com/carmanagement/model/CarStatus.class
+com/carmanagement/resource/CarManagementResource.class
+com/carmanagement/model/CarInfo.class
+com/carmanagement/agentic/tools/CarWashTool.class

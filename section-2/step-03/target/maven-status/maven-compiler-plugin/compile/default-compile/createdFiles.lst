@@ -1,0 +1,17 @@
+com/carmanagement/model/RequiredAction.class
+com/carmanagement/service/CarManagementService.class
+com/carmanagement/agentic/agents/CarWashAgent.class
+com/carmanagement/resource/CarResource.class
+com/carmanagement/resource/CarManagementResource.class
+com/carmanagement/agentic/tools/MaintenanceTool.class
+com/carmanagement/agentic/workflow/FeedbackWorkflow.class
+com/carmanagement/model/CarConditions.class
+com/carmanagement/agentic/agents/MaintenanceAgent.class
+com/carmanagement/agentic/workflow/CarProcessingWorkflow.class
+com/carmanagement/agentic/workflow/ActionWorkflow.class
+com/carmanagement/model/CarInfo.class
+com/carmanagement/agentic/tools/CarWashTool.class
+com/carmanagement/agentic/agents/CarWashFeedbackAgent.class
+com/carmanagement/model/CarStatus.class
+com/carmanagement/agentic/agents/MaintenanceFeedbackAgent.class
+com/carmanagement/agentic/agents/CarConditionFeedbackAgent.class
